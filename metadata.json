@@ -1,0 +1,7 @@
+{
+  "name": "NekoChat - Your AI Companion",
+  "description": "A playful, real-time voice chat application with a cute anime-style persona using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
